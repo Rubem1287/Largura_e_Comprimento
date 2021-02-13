@@ -19,7 +19,7 @@ namespace Largura_e_Comprimento
             comprimento = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine();
-            Console.Write("Digite a Preço do metro quadrado : ");
+            Console.Write("Digite o Preço do metro quadrado : ");
             precoMetroQuadrado = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             area = largura * comprimento;
