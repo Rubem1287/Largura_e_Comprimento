@@ -1,0 +1,13 @@
+C:\Users\rubem\source\repos\Largura e Comprimento\Largura e Comprimento\bin\Debug\netcoreapp3.1\Largura e Comprimento.exe
+C:\Users\rubem\source\repos\Largura e Comprimento\Largura e Comprimento\bin\Debug\netcoreapp3.1\Largura e Comprimento.deps.json
+C:\Users\rubem\source\repos\Largura e Comprimento\Largura e Comprimento\bin\Debug\netcoreapp3.1\Largura e Comprimento.runtimeconfig.json
+C:\Users\rubem\source\repos\Largura e Comprimento\Largura e Comprimento\bin\Debug\netcoreapp3.1\Largura e Comprimento.runtimeconfig.dev.json
+C:\Users\rubem\source\repos\Largura e Comprimento\Largura e Comprimento\bin\Debug\netcoreapp3.1\Largura e Comprimento.dll
+C:\Users\rubem\source\repos\Largura e Comprimento\Largura e Comprimento\bin\Debug\netcoreapp3.1\Largura e Comprimento.pdb
+C:\Users\rubem\source\repos\Largura e Comprimento\Largura e Comprimento\obj\Debug\netcoreapp3.1\Largura e Comprimento.csprojAssemblyReference.cache
+C:\Users\rubem\source\repos\Largura e Comprimento\Largura e Comprimento\obj\Debug\netcoreapp3.1\Largura e Comprimento.AssemblyInfoInputs.cache
+C:\Users\rubem\source\repos\Largura e Comprimento\Largura e Comprimento\obj\Debug\netcoreapp3.1\Largura e Comprimento.AssemblyInfo.cs
+C:\Users\rubem\source\repos\Largura e Comprimento\Largura e Comprimento\obj\Debug\netcoreapp3.1\Largura e Comprimento.csproj.CoreCompileInputs.cache
+C:\Users\rubem\source\repos\Largura e Comprimento\Largura e Comprimento\obj\Debug\netcoreapp3.1\Largura e Comprimento.dll
+C:\Users\rubem\source\repos\Largura e Comprimento\Largura e Comprimento\obj\Debug\netcoreapp3.1\Largura e Comprimento.pdb
+C:\Users\rubem\source\repos\Largura e Comprimento\Largura e Comprimento\obj\Debug\netcoreapp3.1\Largura e Comprimento.genruntimeconfig.cache
